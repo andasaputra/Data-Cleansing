@@ -10,7 +10,8 @@ The goals in this exercise to do preprocessing data before do the basic of explo
 
 ## Datasets Used
 
-The datasets used for this exercise can be access from kaggle ((https://www.kaggle.com/datasets/blastchar/telco-customer-churn). I also upload the data in this repositories
+The datasets used for this exercise can be access from kaggle ((https://www.kaggle.com/datasets/blastchar/telco-customer-churn). I also upload the data in this repositories.
+
 This data is about :
  * Customers who left within the last month – the column is called Churn
  * Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
