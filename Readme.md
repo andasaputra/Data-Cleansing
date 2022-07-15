@@ -17,7 +17,7 @@ This data is about :
  * Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
  * Demographic info about customers – gender, age range, and if they have partners and dependents
  
- ##Goals on this repository
+ ## Goals on this repository
  
  Basically, only 3 goals set on this Data Cleansing repository which are :
  * lowecase-ing the word on the header
