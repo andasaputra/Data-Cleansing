@@ -26,4 +26,4 @@ This data is about :
  
  ## Conclusion
 
-Maybe it feel hard for starting to learn something new, especially if you want to mastering it. But, keep walking the walk, one step at a time.
+Maybe it feel hard for starting to learn something new, especially if you want to mastering it. But, keep walking the walk, one step at a time. 
